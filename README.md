@@ -6,5 +6,5 @@ selam dünyalı
 
 Hi , ı'm Kod Walker 
 
-Good Nigt!
+Good Night!
 Good Luck!
