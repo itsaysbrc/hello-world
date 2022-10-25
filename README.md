@@ -1,9 +1,5 @@
-# hello-world
-selam dünyalı 
+# hello-world 
 
-
-
-
-Hi , ı'm Kod Walker 
+Hi , ı'm HASCHWALT 
 
 Good Luck!
